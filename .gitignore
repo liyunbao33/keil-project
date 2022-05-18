@@ -1,4 +1,4 @@
-/MDK-ARM/
+MDK-ARM/
 !HAL_SysTick.uvoptx
 !HAL_SysTick.uvprojx
 !startup_stm32f103xe.s
